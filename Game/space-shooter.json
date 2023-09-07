@@ -20,8 +20,8 @@
     "templateSlug": "",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
-    "name": "CodeGaming Space Shooter1",
-    "description": "Un simple jeux de tir et de survie. ",
+    "name": "CodeGaming Space Shooter-v2",
+    "description": "",
     "author": "",
     "windowWidth": 1280,
     "windowHeight": 720,
@@ -50,19 +50,10 @@
       "placement": "bottom-left",
       "showWatermark": true
     },
-    "authorIds": [
-      "Mch05ECs0CNVqStivSGOBe5JJ2E3"
-    ],
-    "authorUsernames": [
-      "Alor_"
-    ],
-    "categories": [
-      "shooter",
-      "survival"
-    ],
-    "playableDevices": [
-      "keyboard"
-    ],
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
     "extensionProperties": [],
     "platforms": [
       {
@@ -1632,23 +1623,176 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Crate/fbfcb7d364d910aef6f514e60585642498d70a04c88ba2c2df41af7dd8fc7f2b_Crate Red Flat.png",
           "name": "Crate Red Flat.png"
         }
+      },
+      {
+        "file": "assets/Laser effect (1).aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "7c1631d4de82cd4dddfa8cfe00c73fbd0dcd9490a4f6e21fbfa4451ab7bb0341_Laser effect (1).aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/7c1631d4de82cd4dddfa8cfe00c73fbd0dcd9490a4f6e21fbfa4451ab7bb0341_Laser effect (1).aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Laser effect (2).aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "19bc778d55d4f7ecd80e25a7c0370714f1597fb977b042e1204254beef5f7772_Laser effect (2).aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/19bc778d55d4f7ecd80e25a7c0370714f1597fb977b042e1204254beef5f7772_Laser effect (2).aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/death.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "8801d2d6cde766d642136e3fb8749862146cc40b5ed144379f7ff14315c489f7_death.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Audio/8801d2d6cde766d642136e3fb8749862146cc40b5ed144379f7ff14315c489f7_death.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Explosion 8.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "e393c16c53a05345c011b67bcccd5ad6db8d61b5735a417f24a79d25e561bc73_Explosion 8.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Explosions/e393c16c53a05345c011b67bcccd5ad6db8d61b5735a417f24a79d25e561bc73_Explosion 8.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Projectile6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Projectile6.png\"}",
+        "name": "Projectile 5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Projectile6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Projectile6.png\"}",
+        "name": "Projectile6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Projectile7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Projectile7.png\"}",
+        "name": "Projectile7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Projectile10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Projectile 9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Projectile10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Projectile10.png\"}",
+        "name": "Projectile10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Projectile11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Projectile11.png\"}",
+        "name": "Projectile11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Projectile12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Projectile12.png\"}",
+        "name": "Projectile12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Projectile13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Projectile13.png\"}",
+        "name": "Projectile13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Projectile14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Projectile14.png\"}",
+        "name": "Projectile14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Projectile15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Projectile15",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
   },
   "objects": [],
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "laser4shooting",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "layouts": [
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "principale",
-      "name": "principale",
+      "mangledName": "Untitled_32scene",
+      "name": "Untitled scene",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
-      "title": "principale",
+      "title": "",
       "v": 209,
       "uiSettings": {
         "grid": false,
@@ -1660,27 +1804,13 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5653158055126322,
+        "zoomFactor": 0.34375202416123285,
         "windowMask": false
       },
       "objectsGroups": [
         {
-          "name": "PlayerProjectiles",
-          "objects": [
-            {
-              "name": "Projectile4"
-            },
-            {
-              "name": "Projectile10"
-            }
-          ]
-        },
-        {
           "name": "Enemies",
           "objects": [
-            {
-              "name": "Cthulhu"
-            },
             {
               "name": "SquidSpaceEnemy2"
             },
@@ -1695,6 +1825,20 @@
             },
             {
               "name": "SpaceShip5"
+            },
+            {
+              "name": "Cthulhu"
+            }
+          ]
+        },
+        {
+          "name": "PlayerProjectiles",
+          "objects": [
+            {
+              "name": "Projectile4"
+            },
+            {
+              "name": "Projectile10"
             }
           ]
         },
@@ -1705,19 +1849,37 @@
               "name": "MeteorRed"
             },
             {
+              "name": "Projectile5"
+            }
+          ]
+        },
+        {
+          "name": "walls",
+          "objects": [
+            {
               "name": "wall"
             },
             {
               "name": "CrateRedFlat"
+            },
+            {
+              "name": "CrateBlue"
             }
           ]
         }
       ],
       "variables": [
         {
+          "folded": true,
           "name": "mainShip",
           "type": "structure",
           "children": [
+            {
+              "folded": true,
+              "name": "health",
+              "type": "number",
+              "value": 100
+            },
             {
               "folded": true,
               "name": "powerUp",
@@ -1741,23 +1903,34 @@
               "name": "enemyNumber",
               "type": "number",
               "value": 5
-            },
-            {
-              "folded": true,
-              "name": "health",
-              "type": "number",
-              "value": 5
             }
           ]
         },
         {
+          "name": "boss",
+          "type": "structure",
+          "children": [
+            {
+              "name": "bossAlive",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "bossMoove",
+              "type": "string",
+              "value": "Down"
+            }
+          ]
+        },
+        {
+          "folded": true,
           "name": "Meteor",
           "type": "structure",
           "children": [
             {
               "name": "MeteorMax",
               "type": "number",
-              "value": 20
+              "value": 10
             },
             {
               "folded": true,
@@ -1766,25 +1939,15 @@
               "value": 0
             }
           ]
+        },
+        {
+          "folded": true,
+          "name": "ScoreScene",
+          "type": "number",
+          "value": 0
         }
       ],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 725,
-          "layer": "",
-          "name": "SpaceBackground2",
-          "persistentUuid": "b381b088-4dd5-45e6-a863-2054e20a2336",
-          "width": 1299,
-          "x": -15,
-          "y": -1,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 90,
           "customSize": false,
@@ -1797,21 +1960,6 @@
           "x": 73,
           "y": 358,
           "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "PowerUp",
-          "persistentUuid": "76bd7c98-5eac-4c61-8dea-b7e6d950891e",
-          "width": 0,
-          "x": 206,
-          "y": 477,
-          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1900,7 +2048,7 @@
           "name": "wall",
           "persistentUuid": "e66c6c89-c344-4706-90ba-a37138b4d5b0",
           "width": 64,
-          "x": -80,
+          "x": -76,
           "y": -13,
           "zOrder": 9,
           "numberProperties": [],
@@ -1917,7 +2065,7 @@
           "width": 0,
           "x": 288,
           "y": 302,
-          "zOrder": -1,
+          "zOrder": -8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -1933,14 +2081,29 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 23,
+          "height": 34,
           "layer": "",
-          "name": "wall",
-          "persistentUuid": "ce947e49-e39d-4630-8075-643ef4af8ea2",
-          "width": 1310,
-          "x": -16,
-          "y": -24,
-          "zOrder": 9,
+          "name": "ScoreCounter",
+          "persistentUuid": "adb4ffca-c46f-4bc9-920c-4dd28b116123",
+          "width": 127,
+          "x": 1113,
+          "y": 10,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Score",
+          "persistentUuid": "a68e3424-3772-472b-9464-9013c5a57587",
+          "width": 0,
+          "x": 1022,
+          "y": 8,
+          "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1949,14 +2112,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 23,
+          "height": 64,
           "layer": "",
           "name": "wall",
-          "persistentUuid": "fca72d0a-717f-44da-a401-d363d4208a9f",
-          "width": 1310,
-          "x": -20,
-          "y": 723,
-          "zOrder": 9,
+          "persistentUuid": "c495666a-eef4-499c-ad6a-a5c6a289df5d",
+          "width": 1297,
+          "x": -14,
+          "y": -65,
+          "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1965,14 +2128,151 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 727,
+          "height": 20,
           "layer": "",
-          "name": "CrateRedFlat",
-          "persistentUuid": "6181b3e7-f150-4ad7-87d4-a12caa46cb50",
-          "width": 64,
-          "x": 1290,
-          "y": -1,
-          "zOrder": 10,
+          "name": "CrateBlue",
+          "persistentUuid": "7db0402a-afef-43f4-8302-92f907ea8934",
+          "width": 1307,
+          "x": -17,
+          "y": 725,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 34,
+          "layer": "",
+          "name": "EnergyBar",
+          "persistentUuid": "26d4d0c1-23f2-4061-8f5d-2d9bb53f4c3f",
+          "width": 893,
+          "x": 77,
+          "y": 13,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 19,
+          "layer": "",
+          "name": "HealthBarFill",
+          "persistentUuid": "42c80203-62ff-4e16-b609-0704b7950b9d",
+          "width": 875,
+          "x": 84,
+          "y": 22,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "SpaceBackground2",
+          "persistentUuid": "44cf2e06-2ec6-49c1-ac39-9d3324ad2b7a",
+          "width": 0,
+          "x": -94,
+          "y": -88,
+          "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "SpaceBackground3",
+          "persistentUuid": "b4f1bb37-8df7-404f-bc6a-7512a0162c84",
+          "width": 0,
+          "x": 1151,
+          "y": -88,
+          "zOrder": -3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "SpaceBackground4",
+          "persistentUuid": "4f13dedf-f28f-4c9d-90c0-fe843424439f",
+          "width": 0,
+          "x": 546,
+          "y": -90,
+          "zOrder": -4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "SpaceBackground2",
+          "persistentUuid": "736bd89b-6135-4dab-8708-36865dd5e401",
+          "width": 0,
+          "x": 550,
+          "y": 383,
+          "zOrder": -5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "SpaceBackground2",
+          "persistentUuid": "e19368e9-e638-4b2f-b945-8c3485dc5a7a",
+          "width": 0,
+          "x": -89,
+          "y": 386,
+          "zOrder": -6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "SpaceBackground2",
+          "persistentUuid": "1d56cdf6-0209-44a2-b922-81cdef0160e2",
+          "width": 0,
+          "x": 1186,
+          "y": 391,
+          "zOrder": -7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Win",
+          "persistentUuid": "09515db6-8550-499a-a27c-19ab15b6606c",
+          "width": 0,
+          "x": 500,
+          "y": 323,
+          "zOrder": -8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1980,6 +2280,7 @@
       ],
       "objects": [
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "a159cdab4b77cf2662b83cd60866bda0699f50cf0df3211f0f8457eff636ad4b",
           "name": "MeteorRed",
           "tags": "",
@@ -2088,6 +2389,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "c96390b7ef90a793191a9dd2d652d4069c6cd1f1b4e50de6f26343d7be3298e0",
           "name": "Planet2",
           "tags": "",
@@ -2148,6 +2450,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "d28a6503364c4e619f30cea1117aa8bd918c64a255a66229a5b7cbd20937bef2",
           "name": "Planet1",
           "tags": "",
@@ -2208,6 +2511,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "abd2ba00793b66a6913484ec53b331a5e923719e5483e930dcb94a011e3515c0",
           "name": "Moon",
           "tags": "",
@@ -2268,6 +2572,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "5c0cc1a533de4e6fa28be500f71a456dde4c2d84bccee17a7bcc8322cc0a991b",
           "name": "BlackHole",
           "tags": "",
@@ -2328,6 +2633,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "66655fa03b08f15ba8c41242e10d810430602bc774746d4b6528a2dc8b585065",
           "name": "SpaceBackground2",
           "tags": "",
@@ -2388,6 +2694,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "5bfc93fdf1ac4d9ea83fded83b4daed20f55429e366ca4180f03c69622a512ed",
           "name": "Meteor",
           "tags": "",
@@ -2550,6 +2857,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "de40b032ec8bfb7d972be1b03eed0642a1580d57cb76f4488b9e59a1229c850f",
           "name": "SpaceBackground4",
           "tags": "",
@@ -2610,6 +2918,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "721fc1fac46a3998a570efb706973d4f0a05f5fa7aa3d9621f5698b4047e9e63",
           "name": "SpaceBackground3",
           "tags": "",
@@ -2670,6 +2979,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "7eef13008a76791672a38365eb1d56572d57b066ae1ebe85d73bf64ad68c7bfc",
           "name": "SpaceBackground5",
           "tags": "",
@@ -2742,6 +3052,7 @@
           "behaviors": []
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "2c3a1219db8dd0039b7432ebc6c05121e956114bb8cf55e701ba62f59660800d",
           "name": "Star2",
           "tags": "",
@@ -2802,6 +3113,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "4de9c4f6c1f5417ddbc99d8a3aab313065904476710a1e8f13fb99c3662e5a98",
           "name": "Star1",
           "tags": "",
@@ -2862,14 +3174,69 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "023e5f2e72695522edd0d489f85543e1f314dd17300688afa0d391bd7f16dfcb",
           "name": "Cthulhu",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "Life",
+              "type": "number",
+              "value": 500
+            }
+          ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "FireBullet",
+              "type": "FireBullet::FireBullet",
+              "FireCooldown": 0.6,
+              "HasJustFired": false,
+              "FiringArc": 35,
+              "BulletQuantity": 5,
+              "AngleVariance": 0,
+              "RotateBullet": false,
+              "AmmoQuantity": 0,
+              "ShotsPerReload": 0,
+              "ReloadDuration": 1,
+              "MaxAmmo": 0,
+              "ShotsBeforeNextReload": 0,
+              "TotalShotsFired": 0,
+              "TotalBulletsCreated": 0,
+              "StartingAmmo": 0,
+              "TotalReloadsCompleted": 0,
+              "UnlimitedAmmo": true,
+              "ReloadInProgress": false,
+              "HeatIncreasePerShot": 0,
+              "HeatLevel": 0,
+              "AutomaticReloading": true,
+              "OverheatDuration": 0,
+              "LinearCoolingRate": 0.1,
+              "ExponentialCoolingRate": 0.3,
+              "BulletLayer": "",
+              "RandomizedAngle": 0,
+              "BulletSpeedVariance": 0
+            },
+            {
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
+              "acceleration": 20,
+              "rotateObject": false,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "smoothingMaxCellGap": 1
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -2882,7 +3249,23 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Cthulhu.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "gunpoint1",
+                          "x": 20,
+                          "y": 25
+                        },
+                        {
+                          "name": "gunpoint2",
+                          "x": 20,
+                          "y": 50
+                        },
+                        {
+                          "name": "gunpoint3",
+                          "x": 20,
+                          "y": 1
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -2922,6 +3305,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "3af1a3fd809de5edf1fd2ffd33e37229c815197717f76d4174b128fa066b011b",
           "name": "Projectile2",
           "tags": "",
@@ -2982,6 +3366,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "b1926cecfb36ba36dbc16b2060588aacf3f57ef5add591dfe2c395d157b422ad",
           "name": "SpaceMan",
           "tags": "",
@@ -3042,6 +3427,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "d2d8fa092cee444ee2f3d7b09da05e839d30b0287e40291f7ee5688eebe4edb6",
           "name": "Projectile11",
           "tags": "",
@@ -3102,6 +3488,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "ce7413d13b0edaa6402a5e858f03a4dfb827d89497428c10930187a8445375e1",
           "name": "SquidSpaceEnemy2",
           "tags": "",
@@ -3186,6 +3573,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "122853dc5665ba69f0b30f992b06bb2c0d687baed474a1f0a80f0d49194a2725",
           "name": "SpaceBackground6",
           "tags": "",
@@ -3246,6 +3634,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "ec3ef41117f8f41613f4baafda3b111a1ed1bdfbe7418f6a09a3eb0b936b3cd4",
           "name": "Projectile3",
           "tags": "",
@@ -3306,6 +3695,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "8c259fedb54620e682f8327d89c81502c9e0820928e0b0d3532c179a1b55293e",
           "name": "Projectile10",
           "tags": "",
@@ -3366,6 +3756,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "88a0009c95587c3d49b0449dd43527f7e22739ea8fcf0cffda679db0a7beaced",
           "name": "Projectile12",
           "tags": "",
@@ -3426,6 +3817,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "c5dba129c896bc8323fc5455c4fb67bdda370d7d42cbb591cdebec875446bce9",
           "name": "Projectile4",
           "tags": "",
@@ -3492,6 +3884,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "7cf9acf1e0a8e02489a4f2c66b6544272c9865f9071aacdd22e138ff820df479",
           "name": "Projectile5",
           "tags": "",
@@ -3502,16 +3895,89 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Projectile 5",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.025,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08333333333333333,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Projectile 5.png",
+                      "image": "Projectile 5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 19,
+                            "y": 0
+                          },
+                          {
+                            "x": 19,
+                            "y": 17
+                          },
+                          {
+                            "x": 0,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Projectile6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 19,
+                            "y": 0
+                          },
+                          {
+                            "x": 19,
+                            "y": 17
+                          },
+                          {
+                            "x": 0,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Projectile7",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3552,6 +4018,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "193a58d3afff7d224bc7fc303a04e3cd41640a04d47a9f2816d96f4442dd6a36",
           "name": "Projectile8",
           "tags": "",
@@ -3612,6 +4079,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "d4d287d657d485827c5536c4bbd6c41b22e4f7f44e7ec7009df3bf2500ecaca1",
           "name": "Projectile6",
           "tags": "",
@@ -3672,6 +4140,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "09026b3461cdabee81be378b544d552a445b218243a477e484a83d7acb7dc177",
           "name": "Projectile7",
           "tags": "",
@@ -3732,6 +4201,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "a1178a708899eee695b20ba96e9366abaef9f1995ae384a74c15a1ec04e77eca",
           "name": "SpaceShip1",
           "tags": "",
@@ -3799,6 +4269,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "ae6e09ecebe5924321e986b001e0b44bf2f9bb1697e480bb49fa7328248dc500",
           "name": "Projectile9",
           "tags": "",
@@ -3859,6 +4330,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "0d6dd6c9aeca8eb1c2fc87232d9d4c54201fa9d6fc9afdc1a4cedf263f90fa01",
           "name": "SpaceShip2",
           "tags": "",
@@ -3941,12 +4413,12 @@
                       "points": [
                         {
                           "name": "cannon1",
-                          "x": 31.5,
+                          "x": 24.5,
                           "y": 2.5
                         },
                         {
                           "name": "cannon2",
-                          "x": 7.5,
+                          "x": 0,
                           "y": 2.5
                         }
                       ],
@@ -3964,20 +4436,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 4,
+                            "y": 4
                           },
                           {
-                            "x": 38,
-                            "y": 0
+                            "x": 35,
+                            "y": 4
                           },
                           {
-                            "x": 38,
-                            "y": 34
+                            "x": 35,
+                            "y": 32
                           },
                           {
-                            "x": 0,
-                            "y": 34
+                            "x": 4,
+                            "y": 32
                           }
                         ]
                       ]
@@ -3989,6 +4461,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "e0ae70f3cc5e6dc0c9141271262e80f2624209dbbc00000712d3e35dca8cd2f9",
           "name": "Projectile13",
           "tags": "",
@@ -3999,16 +4472,197 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Projectile 9",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.025,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Projectile 9.png",
+                      "image": "Projectile11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 31,
+                            "y": 0
+                          },
+                          {
+                            "x": 31,
+                            "y": 19
+                          },
+                          {
+                            "x": 0,
+                            "y": 19
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Projectile10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 31,
+                            "y": 0
+                          },
+                          {
+                            "x": 31,
+                            "y": 19
+                          },
+                          {
+                            "x": 0,
+                            "y": 19
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Projectile15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 31,
+                            "y": 0
+                          },
+                          {
+                            "x": 31,
+                            "y": 19
+                          },
+                          {
+                            "x": 0,
+                            "y": 19
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Projectile12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 31,
+                            "y": 0
+                          },
+                          {
+                            "x": 31,
+                            "y": 19
+                          },
+                          {
+                            "x": 0,
+                            "y": 19
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Projectile13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 31,
+                            "y": 0
+                          },
+                          {
+                            "x": 31,
+                            "y": 19
+                          },
+                          {
+                            "x": 0,
+                            "y": 19
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Projectile14",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4049,6 +4703,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "665f2779fa851cf7f2c1bc8e221a294cf4650a16592ce5f006853db32718dab6",
           "name": "SpaceShip4",
           "tags": "",
@@ -4109,6 +4764,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "631f690669f9f8709f8ed7d793039a793c7cea1a7c6837b1431461f03cbc6f52",
           "name": "SpaceShip7",
           "tags": "",
@@ -4169,6 +4825,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "776f367d26fa8d5df8df60711f87c9490dd786659861ad89cf9d72d6991b9152",
           "name": "SpaceShip8",
           "tags": "",
@@ -4229,6 +4886,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "f258355bff3927186c8cb72e515f5628bc25ccad950dddb631be8157076792fb",
           "name": "SpaceShip5",
           "tags": "",
@@ -4289,6 +4947,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "5f056848ef8f7f13f1a9f0e607ac053ff1d7cdf9fb529bfa8aca7487e60f2999",
           "name": "Explosion1",
           "tags": "",
@@ -4529,6 +5188,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "6b07de6de81f1d286e2c5c09de12b4b200f29ccd363674f0f4cee41367139f17",
           "name": "SpaceShip6",
           "tags": "",
@@ -4589,6 +5249,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "0ec87245b5af3fdcc9737988858a612f67c83ac451d97b726147b33846bca556",
           "name": "Explosion2",
           "tags": "",
@@ -4829,6 +5490,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "c2b3187d5c30ad0ee1960e1d3bfa3b08af4f265c4858020bea64457eafdfd2b7",
           "name": "Explosion3",
           "tags": "",
@@ -5033,6 +5695,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "6955275ac67de0266bed877a16f40e887cab2160767d5ff86f99a583d4a53e02",
           "name": "Explosion5",
           "tags": "",
@@ -5237,6 +5900,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "68f945b76c2f90b4d52c71c24d145774abaac81d03f876fe14506da02d8319c5",
           "name": "Explosion4",
           "tags": "",
@@ -5477,6 +6141,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "64aee684906b73f6ddcab8dfedf3ac8c9a4c4579ebd7eef0185a7ebacfd34ded",
           "name": "Explosion6",
           "tags": "",
@@ -5717,6 +6382,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "eab3286923eab98d689424e00b841d15794a2c4d8949ad2bf5c8cbd37ba17528",
           "name": "Explosion7",
           "tags": "",
@@ -6029,6 +6695,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "9cdaafcaba25f48844d3d4e5e4467881e3639a0a3cc3eb6195b13663c64b70c2",
           "name": "Shield1",
           "tags": "",
@@ -6089,6 +6756,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "c921573d9fb50abd75291ff3a73c0810e5d9ff4c6fe5c416479881192a4dab26",
           "name": "Shield2",
           "tags": "",
@@ -6149,6 +6817,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "4a3901026ad976345a4f988abf95df600c3393f89ea5b8cc7e33e2e9ab023318",
           "name": "Bubble",
           "tags": "",
@@ -6209,6 +6878,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "b01970df01552d57c0efa613e014c59f211967bd8a07690c6ded673e21a67a6b",
           "name": "Bomb",
           "tags": "",
@@ -6269,6 +6939,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "e6e51321e07250b9749d11c87ba50e971d3a052c84cdc26fbf121fee61d0aab6",
           "name": "CrateRed",
           "tags": "",
@@ -6329,6 +7000,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "3dc5c57a95ad03ec5184eae9416181a9b5aa14206629d8058d08263ccd505dc8",
           "name": "GemPurple",
           "tags": "",
@@ -6497,6 +7169,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "cb7712ab26f65c5f3a18a7481f183350fe62dde28c174376552de01390e5ed35",
           "name": "PowerUp",
           "tags": "",
@@ -6766,6 +7439,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "609984bdf2e28417abc99171bc2dc56e1665e09b29acdce6386d4c43896aaa7e",
           "name": "CrateBlue",
           "tags": "",
@@ -6826,6 +7500,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "ef216ed42e90cea2dc9326b904c802a49724f582eca011589b262f000ea405dc",
           "name": "GemYellow",
           "tags": "",
@@ -6994,6 +7669,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "85079d7043dd3a580858e26c0f45fca6c0f6b346cdf4065908f3613543147ba5",
           "name": "GemRed",
           "tags": "",
@@ -7162,6 +7838,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "1b1f1eb02d003289a330f60f6af1cadf2ce8e4cc51ed095ca8d125de0e769ead",
           "name": "RocketBig",
           "tags": "",
@@ -7222,6 +7899,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "a30258a575c7730bb1c5a216102993364844fc964ac9a0417293a250e0f01440",
           "name": "Life",
           "tags": "",
@@ -7330,6 +8008,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "de2c761ece9872791d1a498a6446dd1dd75a47db6985bef2252a26d01bf1a535",
           "name": "LivesIcon",
           "tags": "",
@@ -7390,6 +8069,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "dc012c9b333e4587f377ff95616b6dbcf7ae306d1a8fd97483d2f34ba14499db",
           "name": "Ball",
           "tags": "",
@@ -7450,6 +8130,7 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "d0272d3a195e90c09fbe7e62374cb32595faa7e57fc78f5ba0ef63c203829ff5",
           "name": "RocketSmall",
           "tags": "",
@@ -7522,6 +8203,7 @@
           "behaviors": []
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "4375d5dad43970b5d07c58e708d62def6717ed4225aacaf4b9c16a2bab48f81c",
           "name": "StarGemBlue",
           "tags": "",
@@ -7736,6 +8418,7 @@
           "behaviors": []
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "3cc817a8e0bf681542500da784bfe78049866b3db3379875d4af5091faba93e5",
           "name": "wall",
           "tags": "",
@@ -7842,6 +8525,7 @@
           }
         },
         {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "41f776072a8da7b862b231a7535bc553a8472a5344b833aab30f3a215a77da60",
           "name": "CrateRedFlat",
           "tags": "",
@@ -7900,6 +8584,72 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "ScoreCounter",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "0",
+          "font": "",
+          "textAlignment": "right",
+          "characterSize": 30,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Score",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Score :",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Win",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Gagné !",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 100,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
         }
       ],
       "events": [
@@ -7908,7 +8658,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Fire",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -7951,7 +8700,7 @@
                         "SpaceShip2",
                         "FireBullet",
                         "=",
-                        "0.3",
+                        "0.2",
                         ""
                       ]
                     },
@@ -7993,6 +8742,16 @@
                         "Projectile4",
                         "=",
                         "90"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "laser4shooting",
+                        "=",
+                        "1"
                       ]
                     }
                   ]
@@ -8014,6 +8773,18 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "FireBullet::FireBullet::SetCooldownOp"
+                      },
+                      "parameters": [
+                        "SpaceShip2",
+                        "FireBullet",
+                        "=",
+                        "0.1",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "FireBullet::FireBullet::Fire"
                       },
                       "parameters": [
@@ -8051,18 +8822,6 @@
                         "=",
                         "90"
                       ]
-                    },
-                    {
-                      "type": {
-                        "value": "FireBullet::FireBullet::SetCooldownOp"
-                      },
-                      "parameters": [
-                        "SpaceShip2",
-                        "FireBullet",
-                        "=",
-                        "0.1",
-                        ""
-                      ]
                     }
                   ]
                 }
@@ -8076,7 +8835,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Power Up",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8189,7 +8947,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Projectiles Management",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8300,6 +9057,43 @@
                     "value": "CollisionNP"
                   },
                   "parameters": [
+                    "PlayerProjectiles",
+                    "Projectile5",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Projectile5",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Projectile4",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
                     "MeteorRed",
                     "Projectile10",
                     "",
@@ -8326,6 +9120,16 @@
                     "Meteor.MeteorNumber",
                     "-",
                     "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "ScoreScene",
+                    "+",
+                    "2"
                   ]
                 }
               ]
@@ -8358,6 +9162,15 @@
                 },
                 {
                   "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Projectile4",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "ModVarScene"
                   },
                   "parameters": [
@@ -8373,7 +9186,17 @@
                   "parameters": [
                     "randomPower",
                     "=",
-                    "Choose::RandomNumber(\"0,1,2,3,4,5,6,7,8,9\")"
+                    "Choose::RandomNumber(\"0,1,2,3,4,5,6,7\")"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "ScoreScene",
+                    "+",
+                    "2"
                   ]
                 }
               ],
@@ -8411,7 +9234,7 @@
                       },
                       "parameters": [
                         "PowerUp",
-                        "-500",
+                        "-350",
                         "0",
                         "1"
                       ]
@@ -8428,7 +9251,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Enemies Management",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8496,6 +9318,28 @@
                     "-",
                     "1"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "ScoreScene",
+                    "+",
+                    "20"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "8801d2d6cde766d642136e3fb8749862146cc40b5ed144379f7ff14315c489f7_death.aac",
+                    "",
+                    "10",
+                    "1.5"
+                  ]
                 }
               ]
             },
@@ -8523,7 +9367,7 @@
                   "parameters": [
                     "",
                     "SquidSpaceEnemy2",
-                    "1300",
+                    "1800",
                     "Random(650)",
                     ""
                   ]
@@ -8548,7 +9392,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Meteor",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8577,7 +9420,7 @@
                   "parameters": [
                     "",
                     "MeteorRed",
-                    "1300",
+                    "1800",
                     "Random(650)",
                     ""
                   ]
@@ -8652,12 +9495,12 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Game Over Management",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -8699,6 +9542,18 @@
                         },
                         {
                           "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "e393c16c53a05345c011b67bcccd5ad6db8d61b5735a417f24a79d25e561bc73_Explosion 8.aac",
+                            "",
+                            "30",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "ChangePlan"
                           },
                           "parameters": [
@@ -8721,7 +9576,7 @@
                           },
                           "parameters": [
                             "",
-                            "\"principale\"",
+                            "\"Untitled scene\"",
                             ""
                           ]
                         }
@@ -8733,6 +9588,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -8774,6 +9630,18 @@
                         },
                         {
                           "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "e393c16c53a05345c011b67bcccd5ad6db8d61b5735a417f24a79d25e561bc73_Explosion 8.aac",
+                            "",
+                            "30",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "ChangePlan"
                           },
                           "parameters": [
@@ -8796,7 +9664,7 @@
                           },
                           "parameters": [
                             "",
-                            "\"principale\"",
+                            "\"Untitled scene\"",
                             ""
                           ]
                         }
@@ -8806,9 +9674,689 @@
                   "parameters": []
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "SpaceShip2",
+                    "walls",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Cthulhu",
+                    "Life",
+                    "<=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ChangePlan"
+                      },
+                      "parameters": [
+                        "Win",
+                        "=",
+                        "20"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Cthulhu",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Untitled scene\"",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Difficuty",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Meteor Number Increase",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "ScoreScene",
+                        ">=",
+                        "100"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "Meteor.MeteorMax",
+                        "=",
+                        "15"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "ScoreScene",
+                        ">=",
+                        "200"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "Meteor.MeteorMax",
+                        "=",
+                        "20"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "ScoreScene",
+                        ">=",
+                        "300"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "Meteor.MeteorMax",
+                        "=",
+                        "25"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "ScoreScene",
+                        ">=",
+                        "400"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "Meteor.MeteorMax",
+                        "=",
+                        "30"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "ScoreScene",
+                        ">=",
+                        "500"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "Meteor.MeteorMax",
+                        "=",
+                        "35"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "ScoreScene",
+                        ">=",
+                        "600"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "Meteor.MeteorMax",
+                        "=",
+                        "45"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Boss Spawn",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "ScoreScene",
+                        ">=",
+                        "650"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "Meteor.MeteorMax",
+                        "=",
+                        "20"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "enemyShip.enemyMax",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Cthulhu",
+                        "1800",
+                        "200",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "EnergyBar",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "Cthulhu",
+                        "=",
+                        "4"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "boss.bossAlive",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"BossFireRate\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PathfindingBehavior::SetDestination"
+                      },
+                      "parameters": [
+                        "Cthulhu",
+                        "Pathfinding",
+                        "=",
+                        "1000",
+                        "200"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Boss Management",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                  },
+                  "parameters": [
+                    "HealthBarFill",
+                    "Resizable",
+                    "=",
+                    "Cthulhu.Variable(Life) * 1.75"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarSceneTxt"
+                  },
+                  "parameters": [
+                    "boss.bossMoove",
+                    "=",
+                    "\"Down\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "Cthulhu"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "Cthulhu",
+                    "0",
+                    "Choose::RandomNumber(\"100, 150, 200\")",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarSceneTxt"
+                  },
+                  "parameters": [
+                    "boss.bossMoove",
+                    "=",
+                    "\"Up\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "Cthulhu"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "Cthulhu",
+                    "0",
+                    "Choose::RandomNumber(\"-100, -150, -200\")",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Cthulhu",
+                    "wall",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarSceneTxt"
+                  },
+                  "parameters": [
+                    "boss.bossMoove",
+                    "=",
+                    "\"Down\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Cthulhu",
+                    "CrateBlue",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarSceneTxt"
+                  },
+                  "parameters": [
+                    "boss.bossMoove",
+                    "=",
+                    "\"Up\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"BossFireRate\"",
+                    "<=",
+                    "0.5"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FireBullet::FireBullet::Fire"
+                  },
+                  "parameters": [
+                    "Cthulhu",
+                    "FireBullet",
+                    "Cthulhu.PointX(Choose::RandomString(\"gunpoint1, gunpoint2, gunpoint3\"))",
+                    "Cthulhu.PointY(Choose::RandomString(\"gunpoint1, gunpoint2, gunpoint3\"))",
+                    "Projectile5",
+                    "0",
+                    "-200",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "Projectile5",
+                    "=",
+                    "-90"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"BossFireRate\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Settings\n"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "ScoreCounter",
+                "=",
+                "ToString(Variable(ScoreScene))"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "ScoreScene",
+                "<",
+                "650"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "EnergyBar"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -8842,8 +10390,24 @@
       ],
       "behaviorsSharedData": [
         {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
           "name": "FireBullet",
           "type": "FireBullet::FireBullet"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
         },
         {
           "name": "Pathfinding",
@@ -8856,6 +10420,14 @@
           "gravityY": 9.8,
           "scaleX": 100,
           "scaleY": 100
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
         },
         {
           "name": "TopDownMovement",
