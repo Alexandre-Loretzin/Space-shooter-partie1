@@ -28,4 +28,4 @@ Et enfin quelques effets visuels comme des explosions, des particules, etc...
 
 Tu peux essayer dès maintenant d'ajouter ces fonctionnalités à ton jeu. Mais nous allons avant tout ça voir comment publier ton jeu pour que tu puisses le partager avec tes amis ! C'est parti !
 
-La suite ici : [Publication du jeu](06_publication.md) 🎉
+La suite ici : [Publication du jeu](0x_publication.md) 🎉
