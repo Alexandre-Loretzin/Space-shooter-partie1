@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "Untitled scene",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -25,7 +25,7 @@
     "author": "",
     "windowWidth": 1280,
     "windowHeight": 720,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "C:\\Users\\alore\\Desktop\\TEST",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -50,10 +50,18 @@
       "placement": "bottom-left",
       "showWatermark": true
     },
-    "authorIds": [],
-    "authorUsernames": [],
-    "categories": [],
-    "playableDevices": [],
+    "authorIds": [
+      "Mch05ECs0CNVqStivSGOBe5JJ2E3"
+    ],
+    "authorUsernames": [
+      "Alor_"
+    ],
+    "categories": [
+      "shooter"
+    ],
+    "playableDevices": [
+      "keyboard"
+    ],
     "extensionProperties": [],
     "platforms": [
       {
@@ -1769,6 +1777,856 @@
         "name": "Projectile15",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/66cf99442730c9577ff7fcc57f7ea5b2dac72a7bbf5041dd953d0b63ed07b7f1_Medium Star_1.png",
+          "name": "Medium Star_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/d21557a06b65f60873886d28e7e06fa6d8511f6aca77fd686c9989590a80719d_Medium Star_10.png",
+          "name": "Medium Star_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/6da46453454d94821aac19e6e5bc382f2c5bf988200d5bf447da79816c7a8a9e_Medium Star_11.png",
+          "name": "Medium Star_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/edfca112260c1a887a5d4227ae2ddb951a90ac68677ab569b21c4a73f80b7c92_Medium Star_12.png",
+          "name": "Medium Star_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/1a60facbc932e370d171d9fce0c292f93263d03773255d9f2f79966a74084fd6_Medium Star_13.png",
+          "name": "Medium Star_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/990e45bcac5e0d479001b8c05786bd8998cbcc8987dba08cee71835408936668_Medium Star_14.png",
+          "name": "Medium Star_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/f0cd8a90bd0195498a6817f4146f2e9a32c0655e4ef4cebc64a4b691a3221bec_Medium Star_15.png",
+          "name": "Medium Star_15.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/68ea1df2f25ed15160411f44d76280ba3c89b0ae1af480ffcf6b3a33ee5bbcb6_Medium Star_16.png",
+          "name": "Medium Star_16.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_17.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/4a985944eba2a6bb4c0318aa66c343fdde8c646c25b1586b263527025b019b58_Medium Star_17.png",
+          "name": "Medium Star_17.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_18.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/b09f2c7517694ad27203365e220f903d8507612dd5425a3ed247b2b793fe2f7d_Medium Star_18.png",
+          "name": "Medium Star_18.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_19.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/19d24089915cb4ce00efee4d2a4d9f57b7e616cf8d740f8af40019eb631c2dd9_Medium Star_19.png",
+          "name": "Medium Star_19.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/bff17bce8994aae1bee49498a32494fd077439b3a2832f8996ae0b8b7aedd1fd_Medium Star_2.png",
+          "name": "Medium Star_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_20.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/162934ea7a08958c8aa03edb454a2c89d12ec8bc48d839d9c307e2ff24fbf86e_Medium Star_20.png",
+          "name": "Medium Star_20.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_21.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/1ea7dae168991197b6d30b340fdd57712ce6f5eadc67dbe50b1d0707dbe925c1_Medium Star_21.png",
+          "name": "Medium Star_21.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_22.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/070a2682539e8aae246def331afa0ca77838708297d337447c3622a95d557e95_Medium Star_22.png",
+          "name": "Medium Star_22.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_23.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/6f4389a74a9f0cf638877ca52bb6e6acdf1961dbf1f1f4bbab32a97fee1fccaf_Medium Star_23.png",
+          "name": "Medium Star_23.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_24.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/e84057002494d9c4707066f6952e3c55331ef56f8a4642ae53239374341ffffe_Medium Star_24.png",
+          "name": "Medium Star_24.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_25.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/3662f180dc8a49b570da23d12aa373582f0ae5525e71d2a999980e8dc0959409_Medium Star_25.png",
+          "name": "Medium Star_25.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_26.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/dd21109d0ae6a1fba7db33803c83ad89d02e4a66d24a00d741997ec8c20e336d_Medium Star_26.png",
+          "name": "Medium Star_26.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_27.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/5f4a34d5cedc4d673c7cd43c12261a33003738269b00561da561b7da56f38968_Medium Star_27.png",
+          "name": "Medium Star_27.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_28.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/219f399a7b11a213b4e91ad88556a01357012f8f782d749d32895f67d3c210ed_Medium Star_28.png",
+          "name": "Medium Star_28.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_29.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/9ebd31ff103c0a30fcadf7fa4bc9453be9c6b368e6db1fcbdce042049f877abf_Medium Star_29.png",
+          "name": "Medium Star_29.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/895fe1e67eea5612e4f74348c0094194dcafc3db77c4c6c27632ec6421bb0964_Medium Star_3.png",
+          "name": "Medium Star_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_30.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/a08cdf22979d45a38ee0b7f6effadd325b5e84bcff6fc592a86f66ca402e42b3_Medium Star_30.png",
+          "name": "Medium Star_30.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_31.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/7bf38bcc0335c6c4e0c052a1e8003d8c6573876413a4f5b00d774148a2cafb8d_Medium Star_31.png",
+          "name": "Medium Star_31.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_32.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/d8bc43552bec0b0e14b5a7c1e64efadf7e8da42661095bba5f038893ea469015_Medium Star_32.png",
+          "name": "Medium Star_32.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_33.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/7c552bb1fc1d05e464dadef50225199e5ba5272056d2f32a50b9bac3a392f0fb_Medium Star_33.png",
+          "name": "Medium Star_33.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_34.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/8997b6720f038f83069e0f9e14e5afbeab418c43a6e0f41ea466baffda3a140f_Medium Star_34.png",
+          "name": "Medium Star_34.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_35.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/b0e75a9ebf45c2183dabd5cca978689f029886968796c23d85aff0dfdd0b61c1_Medium Star_35.png",
+          "name": "Medium Star_35.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_36.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/a26dbefa227555fe04cec4eae38cd2b5cf4cebe39b9e2b145850f4d909d12f8d_Medium Star_36.png",
+          "name": "Medium Star_36.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_37.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/827469b184af6d8c149911e3ec09a894101833fd5d803f8751eef31fa42dcb45_Medium Star_37.png",
+          "name": "Medium Star_37.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_38.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/7abe052a74253d6d60d3173d2776461110d73bba4534554cdaefcbb1f01301bc_Medium Star_38.png",
+          "name": "Medium Star_38.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_39.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/405e4a0782df8cc100d7037490c1e3ce22bd71a2c40422a6175fa9f21b37d529_Medium Star_39.png",
+          "name": "Medium Star_39.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/1ab7a05b7840324a35986dfd88b1a277d48b117eb1afa7257ffb3e929e28b6ef_Medium Star_4.png",
+          "name": "Medium Star_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_40.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/c4a0755daa4fa166347f062eee8d2bbbec4517ae06eeac1fc95d32243e377ec5_Medium Star_40.png",
+          "name": "Medium Star_40.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_41.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_41.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/598b244817e8226c871df43120ca335febeb8e6f74d3243e7682dd4c1e473d7a_Medium Star_41.png",
+          "name": "Medium Star_41.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_42.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_42.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/df4c2dc7b482e7ddb0416ae0bf2e0f6d99a104af2406e4f9c41918c7310e1e99_Medium Star_42.png",
+          "name": "Medium Star_42.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_43.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_43.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/b40cc92e5a19ca3f3b6b1f49fbea1966b7d802fd0ae5dacc8b7586307a8e3937_Medium Star_43.png",
+          "name": "Medium Star_43.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_44.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_44.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/e17ebc16df26bac4853a8ae2bb843701bdbdbb2bcf661818f8a0087f9dfa1515_Medium Star_44.png",
+          "name": "Medium Star_44.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_45.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_45.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/77dceb290d22d968524796ea11ccc84cfed9b67fbc870768b53cb36a125a9f0f_Medium Star_45.png",
+          "name": "Medium Star_45.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_46.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_46.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/c9ff172cc9d25e25cc5b2106520d9456a341040c04d02113a386bc8a177c2a76_Medium Star_46.png",
+          "name": "Medium Star_46.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_47.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_47.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/887bdf44546945ecc11e45e31f36b4a4f3489639aaa57d8c54b4b46c0030b2e7_Medium Star_47.png",
+          "name": "Medium Star_47.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_48.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_48.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/d3acef79fb15b983ffeadef6884f1c0f54881ff94684b3590a0ef7bb2aa58ad6_Medium Star_48.png",
+          "name": "Medium Star_48.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_49.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_49.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/59dd3723cde7d1fc49bef79bc3222805bd98c3a9d989400bb3017f0031849886_Medium Star_49.png",
+          "name": "Medium Star_49.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/23c1214b1d7f4269d00d470726ebed1f9a08099d10f393228ff1466e40b07c34_Medium Star_5.png",
+          "name": "Medium Star_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_50.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_50.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/268e4daedad1713bc8179fcba7b4b2021ba390bce118ed0f9028458bb976b86c_Medium Star_50.png",
+          "name": "Medium Star_50.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_51.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_51.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/0f1b39b8b9b45795a5ff00a86420e99fdd7dfea778f881dad65d9e6e97b5edfd_Medium Star_51.png",
+          "name": "Medium Star_51.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_52.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_52.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/8b345d49f8b7caaead9bfefcb8597ff6070544854f3d7fd0b2233fbaf537aad1_Medium Star_52.png",
+          "name": "Medium Star_52.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_53.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_53.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/ce4d7f4196ff6fea49fa9618160285082938f12003a8e59cda0c456ef3718601_Medium Star_53.png",
+          "name": "Medium Star_53.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_54.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_54.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/7c4386259826912158a0590bdfc28fa9167e3024318c016bf09876625ffafc54_Medium Star_54.png",
+          "name": "Medium Star_54.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_55.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_55.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/7e372dead350904e8b101853c5f493751a47f287b3ff7689743ac33c2ff7d164_Medium Star_55.png",
+          "name": "Medium Star_55.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_56.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_56.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/0e2170c474a7f1ad2b676108afed2ff2693304d0cd06c5343842c82dea9aeef8_Medium Star_56.png",
+          "name": "Medium Star_56.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_57.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_57.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/e73876b338ef3fc7c7426f44a42ab5a81939b21e5fe53010405e9bdbc43fa679_Medium Star_57.png",
+          "name": "Medium Star_57.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_58.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_58.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/ed72783275422f0d56a7227adf2a12b8ce6e9c18a565e606f678ca9b5349820f_Medium Star_58.png",
+          "name": "Medium Star_58.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_59.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_59.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/67cbf27842fb18dea207a024697b17d7a9f683357339ec2fce177904730359ee_Medium Star_59.png",
+          "name": "Medium Star_59.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/5ed4ebfb7b5428ccbe0b97f1716678ec78d4e8561303f4b09f6a1fc1c94961a7_Medium Star_6.png",
+          "name": "Medium Star_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_60.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_60.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/717458f93b005265dbfc2ab72c3d024126f298a4995e076ee77d9eab0cd9a6ef_Medium Star_60.png",
+          "name": "Medium Star_60.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/d668eefac41f20747b1c1ab3ba06330792fee47be21d07640503038682c97f20_Medium Star_7.png",
+          "name": "Medium Star_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/020b71afb4b173962032e053860da8ea015e7026d372d2d4ccb5bce07cb99fdf_Medium Star_8.png",
+          "name": "Medium Star_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medium Star_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medium Star_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/d0178727fc6e7d1c018797c434dd0a67f6469a71aa153c07a04f16a36e469d01_Medium Star_9.png",
+          "name": "Medium Star_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_purple space.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_purple space.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/Backgrounds/9bca92da2d3a7e7c50e16c4a59f794907d14514d5a109febdeb101e82888979c_tiled_purple space.png",
+          "name": "tiled_purple space.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Hole Start.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hole Start.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Rolling Ball Pack/Hole/2b9699e91bd027685f73bfc8f3cefde62499a5e3e5aed8ec27a546639aff1191_Hole Start.png",
+          "name": "Hole Start.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Star_Filled2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Star_Filled.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Rolling Ball Pack/Interface/4cc60e720c2dda98acb50c579025e272cf6b2421f1b65b4029c36920135f1e83_Star_Filled.png",
+          "name": "Star_Filled.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Star_Outline2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Star_Outline.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Rolling Ball Pack/Interface/2e81f73a70c43087983254789ccf97ffb9baffa8791be05c3783c4515940287a_Star_Outline.png",
+          "name": "Star_Outline.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Horizontal.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Horizontal",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1778,12 +2636,3127 @@
   "variables": [
     {
       "folded": true,
-      "name": "laser4shooting",
+      "name": "totalScore",
       "type": "number",
       "value": 0
     }
   ],
   "layouts": [
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "End",
+      "name": "End",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.444851599888666,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": -90,
+          "customSize": true,
+          "depth": 1,
+          "height": 137,
+          "layer": "",
+          "name": "MediumStar",
+          "persistentUuid": "6e696124-7eb1-4554-9a04-c829385ab214",
+          "width": 155,
+          "x": 555,
+          "y": 354,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 27,
+          "layer": "",
+          "name": "EndText",
+          "persistentUuid": "ffbb3735-399c-4b1e-a132-3465c6fd3603",
+          "width": 491,
+          "x": 398,
+          "y": 90,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 90,
+          "layer": "",
+          "name": "HoleStart",
+          "persistentUuid": "37a5781e-9777-48f3-b880-68f4e275880f",
+          "width": 85,
+          "x": 591,
+          "y": 383,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 155,
+          "layer": "",
+          "name": "Sparks",
+          "persistentUuid": "3c0588d9-8604-4cf5-a026-80e7ecdd21a2",
+          "width": 145,
+          "x": 634,
+          "y": 422,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 180,
+          "customSize": true,
+          "depth": 1,
+          "height": 155,
+          "layer": "",
+          "name": "Sparks",
+          "persistentUuid": "eaf8e9ed-a5f1-435a-9900-0689ad99f670",
+          "width": 145,
+          "x": 639,
+          "y": 422,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1082,
+          "layer": "",
+          "name": "PurpleSpace",
+          "persistentUuid": "2d1d7a5e-61d0-4954-b53e-630965f9e3ef",
+          "width": 1642,
+          "x": -254,
+          "y": -209,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewText",
+          "persistentUuid": "a11c9d23-6ce3-4d28-99fa-4122e840bdab",
+          "width": 0,
+          "x": 434,
+          "y": 221,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "scoreValue",
+          "persistentUuid": "ebee55ac-b460-404d-920a-40b6e6c4b44d",
+          "width": 0,
+          "x": 800,
+          "y": 216,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Rejouer",
+          "persistentUuid": "3350de53-ad6a-40fd-9dd8-83ad7d5772b1",
+          "width": 0,
+          "x": 546,
+          "y": 567,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "8e92ad09024c9b1f51d9e0fe550b010d151beec7068c9d80d67b228a606b83a7",
+          "name": "MediumStar",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.0167,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_25.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_26.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_27.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_28.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_29.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_30.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_31.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_32.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_33.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_34.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_35.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_36.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_37.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_38.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_39.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_40.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_41.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_42.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_43.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_44.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_45.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_46.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_47.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_48.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_49.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_50.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_51.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_52.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_53.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_54.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_55.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_56.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_57.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_58.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_59.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Medium Star_60.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 8
+                          },
+                          {
+                            "x": 56,
+                            "y": 55
+                          },
+                          {
+                            "x": 9,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "0517471270cd0d788f0897173ef026fe98b68589d2a167a983408023fdfaad04",
+          "height": 128,
+          "name": "PurpleSpace",
+          "tags": "",
+          "texture": "tiled_purple space.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "c4547a067a1e098d5468b90aecd73dcc25fba7e298377f4161eddab1b2cd7afc",
+          "name": "HoleStart",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Hole Start.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 96,
+                            "y": 0
+                          },
+                          {
+                            "x": 96,
+                            "y": 96
+                          },
+                          {
+                            "x": 0,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "EndText",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Rejoint le Garage404 pour continuer l'aventure !!!",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 30,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "DestroyOutside",
+              "type": "DestroyOutsideBehavior::DestroyOutside",
+              "extraBorder": 10
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15,
+                            "y": 0
+                          },
+                          {
+                            "x": 18,
+                            "y": 0
+                          },
+                          {
+                            "x": 18,
+                            "y": 32
+                          },
+                          {
+                            "x": 15,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Horizontal",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "DestroyOutside",
+              "type": "DestroyOutsideBehavior::DestroyOutside",
+              "extraBorder": 10
+            }
+          ],
+          "animations": [
+            {
+              "name": "Horizontal",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Horizontal",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16
+                          },
+                          {
+                            "x": 32,
+                            "y": 16
+                          },
+                          {
+                            "x": 32,
+                            "y": 19
+                          },
+                          {
+                            "x": 0,
+                            "y": 19
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "additive": false,
+          "assetStoreId": "fbaccae9c3423a1349db7f8ac8ab78af68ecf516160606c139f8fae1adbde445",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 100,
+          "emitterForceMax": 600,
+          "emitterForceMin": 200,
+          "flow": 600,
+          "jumpForwardInTimeOnCreation": 0,
+          "maxParticleNb": 1000,
+          "name": "Sparks",
+          "particleAlpha1": 255,
+          "particleAlpha2": 79,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 255,
+          "particleBlue2": 255,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 255,
+          "particleGreen2": 243,
+          "particleLifeTimeMax": 0.5,
+          "particleLifeTimeMin": 0.20000000298023224,
+          "particleRed1": 255,
+          "particleRed2": 159,
+          "particleSize1": 50,
+          "particleSize2": 100,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 1,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tags": "",
+          "tank": -1,
+          "textureParticleName": "Sparks.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 0,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "b5dcf215c5236b5a82112c37b624f2122e94ae5bce6c563bae0a0e6c7921cb62",
+          "name": "Star",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "DestroyOutside",
+              "type": "DestroyOutsideBehavior::DestroyOutside",
+              "extraBorder": 10
+            }
+          ],
+          "animations": [
+            {
+              "name": "Filled",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Star_Filled.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 60,
+                            "y": 0
+                          },
+                          {
+                            "x": 60,
+                            "y": 60
+                          },
+                          {
+                            "x": 0,
+                            "y": 60
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Outline",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Star_Outline.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 60,
+                            "y": 0
+                          },
+                          {
+                            "x": 60,
+                            "y": 60
+                          },
+                          {
+                            "x": 0,
+                            "y": 60
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "NewText",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Total score",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "scoreValue",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "0",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "Rejouer",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 0,
+                "thickness": 2
+              },
+              "stringParameters": {
+                "color": "248;231;28"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [],
+          "string": "Rejouer",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
+        }
+      ],
+      "events": [
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "End",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"END\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"END\"",
+                    ">=",
+                    "0.5"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Star",
+                    "Choose::RandomNumber(\"600,700\")",
+                    "Choose::RandomNumber(\"400,500\")",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"END\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Star",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Rotate"
+                  },
+                  "parameters": [
+                    "Star",
+                    "360",
+                    ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PosX"
+                      },
+                      "parameters": [
+                        "Star",
+                        "<=",
+                        "1000"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "Star",
+                        "*",
+                        "1.05\n"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AddForceAL"
+                      },
+                      "parameters": [
+                        "Star",
+                        "MediumStar.AngleToObject(Star)",
+                        "1500",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PosX"
+                      },
+                      "parameters": [
+                        "Star",
+                        ">=",
+                        "1000"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "Star",
+                        "*",
+                        "1.05"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AddForceAL"
+                      },
+                      "parameters": [
+                        "Star",
+                        "MediumStar.AngleToObject(Star)",
+                        "1300",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "scoreValue",
+                "=",
+                "ToString(GlobalVariable(totalScore))"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Rejouer",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonPressed"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Untitled scene\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "totalScore",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+    },
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
@@ -1804,7 +5777,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.34375202416123285,
+        "zoomFactor": 0.44819780454103736,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1911,7 +5884,7 @@
           "type": "structure",
           "children": [
             {
-              "name": "bossAlive",
+              "name": "bossKilled",
               "type": "boolean",
               "value": false
             },
@@ -3221,9 +7194,9 @@
               "BulletSpeedVariance": 0
             },
             {
-              "maxSpeed": 200,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
+              "maxSpeed": 200,
               "acceleration": 20,
               "rotateObject": false,
               "allowDiagonals": true,
@@ -8658,6 +12631,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Fire",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8758,6 +12732,11 @@
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
                       "type": {
@@ -8835,6 +12814,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Power Up",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8947,6 +12927,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Projectiles Management",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9131,6 +13112,16 @@
                     "+",
                     "2"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "totalScore",
+                    "+",
+                    "2"
+                  ]
                 }
               ]
             },
@@ -9198,6 +13189,16 @@
                     "+",
                     "2"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "totalScore",
+                    "+",
+                    "2"
+                  ]
                 }
               ],
               "events": [
@@ -9251,6 +13252,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Enemies Management",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9292,7 +13294,7 @@
                     "value": "VarObjet"
                   },
                   "parameters": [
-                    "Enemies",
+                    "SquidSpaceEnemy2",
                     "Life",
                     "<=",
                     "0"
@@ -9305,7 +13307,7 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "Enemies",
+                    "SquidSpaceEnemy2",
                     ""
                   ]
                 },
@@ -9325,6 +13327,16 @@
                   },
                   "parameters": [
                     "ScoreScene",
+                    "+",
+                    "20"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "totalScore",
                     "+",
                     "20"
                   ]
@@ -9392,6 +13404,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Meteor",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9495,12 +13508,12 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Game Over Management",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -9523,6 +13536,7 @@
                   "colorG": 166,
                   "colorR": 245,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "delete ship",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -9576,7 +13590,7 @@
                           },
                           "parameters": [
                             "",
-                            "\"Untitled scene\"",
+                            "\"End\"",
                             ""
                           ]
                         }
@@ -9588,7 +13602,6 @@
               ]
             },
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -9611,6 +13624,7 @@
                   "colorG": 166,
                   "colorR": 245,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "delete ship",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -9664,7 +13678,7 @@
                           },
                           "parameters": [
                             "",
-                            "\"Untitled scene\"",
+                            "\"End\"",
                             ""
                           ]
                         }
@@ -9706,49 +13720,42 @@
                   ]
                 }
               ],
-              "actions": [],
-              "events": [
+              "actions": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ChangePlan"
-                      },
-                      "parameters": [
-                        "Win",
-                        "=",
-                        "20"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "Cthulhu",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "2"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Scene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Untitled scene\"",
-                        ""
-                      ]
-                    }
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Cthulhu",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "totalScore",
+                    "+",
+                    "150"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"End\"",
+                    "yes"
                   ]
                 }
               ]
@@ -9761,6 +13768,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Difficuty",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -10099,6 +14107,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Boss Management",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
